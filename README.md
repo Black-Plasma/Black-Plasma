@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Black-Plasma (aka. JxBP)
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning C++ (maybe also gonna take a look at GoLang)
-- 📫 How to reach me ...
+- 📫 You can reach me via Discord - BlackPlasma#7562
 
 <!-- - 💞️ I’m looking to collaborate on a private project --->
 <!---
